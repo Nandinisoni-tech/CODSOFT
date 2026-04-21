@@ -1,6 +1,6 @@
 # CODSOFT Data Science Internship
 
-This repository contains the projects completed during the CODSOFT Data Science Internship. The objective of these projects was to understand the basics of data science, machine learning, data preprocessing, data visualization, and prediction using Python.
+This repository contains the projects completed during the CODSOFT Data Science Internship. The objective of these projects was to understand the basics of data science, machine learning, data pre-processing, data visualization, and prediction using Python.
 
 ## Projects Included
 
