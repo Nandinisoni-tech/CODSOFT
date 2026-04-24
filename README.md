@@ -46,5 +46,5 @@ This repository contains the projects completed during the CODSOFT Data Science 
 
 ## Conclusion
 
-These projects helped in building a strong foundation in data science and machine learning by applying different algorithms to real-world datasets.
+These projects helped in building a strong foundation in data science and machine learning by applying different algorithms to real world datasets.
 
