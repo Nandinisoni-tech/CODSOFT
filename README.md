@@ -13,7 +13,7 @@ This repository contains the projects completed during the CODSOFT Data Science 
 
 ### 2. Iris Flower Classification
 
-* Built a classification model using the K-Nearest Neighbors (KNN) algorithm.
+* Built a classification model using the K-Nearest Neighbors algorithm.
 * Classified iris flowers into Setosa, Versicolor, and Virginica species.
 * Used sepal length, sepal width, petal length, and petal width as input features.
 * Created graphs and checked the accuracy of the model.
