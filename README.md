@@ -42,7 +42,7 @@ This repository contains the projects completed during the CODSOFT Data Science 
 * Classification and Regression Models
 * Model Training and Testing
 * Accuracy and Performance Evaluation
-* Working with Real Datasets
+* Working with Real Dataset
 
 ## Conclusion
 
